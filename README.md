@@ -1,4 +1,3 @@
-# -my-first-repo-
-Name curse: HTML+CSS 34 Online
-My name Is: Vladimir Sorokin
-Name mentor: Serhii Dykyi
+Назва курсу: HTML+CSS 34 Online
+Моє ім'я : Vladimir Sorokin
+Ім'я ментора: Serhii Dykyi
